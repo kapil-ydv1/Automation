@@ -1,0 +1,16 @@
+{
+  "apolloApiKey": "YOUR_APOLLO_KEY",
+  "phantomApiKey": "YOUR_PHANTOM_KEY",
+  "phantomAgentId": "LINKEDIN_OUTREACH_FLOW_ID",
+  "linkedinCookie": "YOUR_LINKEDIN_COOKIE",
+  
+  "campaigns": [
+    {
+      "sequenceId": "69158e0602c32900111a1f97",
+      "name": "Junior Analysts",
+      "nicheField": "custom_email_3",
+      "messageTemplateA": "Hey {{firstName}}, I'm building a new AI that's giving junior analysts an unfair advantage. It cuts research from days to minutes using causal reasoning. Worth 15 minutes over coffee?",
+      "messageTemplateB": "Hey {{firstName}}, I'm building a new AI turning filings/news/macro into causal insights in seconds. No more copy-paste marathons. Coffee this week if you're curious?"
+    }
+  ]
+}
